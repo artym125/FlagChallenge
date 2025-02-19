@@ -4,6 +4,7 @@ A SwiftUI-based mobile application designed to test your knowledge of country fl
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -26,6 +27,21 @@ This project demonstrates:
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img width="250" height="600" src="https://github.com/artym125/FlagChallenge/blob/main/Screenshots/1.PNG">
+    <img width="250" height="600" src="https://github.com/artym125/FlagChallenge/blob/main/Screenshots/2.PNG">
+    <img width="250" height="600" src="https://github.com/artym125/FlagChallenge/blob/main/Screenshots/3.PNG">
+</p>
+
+<p align="center">
+  <img width="250" height="600" src="https://github.com/artym125/FlagChallenge/blob/main/Screenshots/4.PNG">
+    <img width="250" height="600" src="https://github.com/artym125/FlagChallenge/blob/main/Screenshots/5.PNG">
+</p>
+
+---
+
 ## Features
 - **Multiple Rounds**: By default, the game offers 5 rounds to guess flags.
 - **Randomized Questions**: Flags and their corresponding options are randomly presented.
@@ -36,9 +52,9 @@ This project demonstrates:
 ---
 
 ## Requirements
-- **Xcode** 14 or higher
-- **iOS** 16.0+ as the deployment target
-- **Swift** 5.7 or higher
+- **Xcode** 15 or higher
+- **iOS** 15.0+ as the deployment target
+- **Swift** 5.9 or higher
 - **Swift Package Manager** for dependency management (Lottie)
 
 ---
